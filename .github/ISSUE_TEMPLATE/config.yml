@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+
+  - name: ❓Question about the document
+    about: Ask a question in the discussion section, and see what has already been asked.
+    url: https://github.com/TheLightCollective/PatientLedAI/discussions/categories/questions
+  - name: 💡 Ideas for future versions of the document
+    about: To suggest an idea for a future version, or other suggestions, share your ideas openly with us.
+    url: https://github.com/TheLightCollective/PatientLedAI/discussions/categories/ideas
+  - name: Show and tell
+    about: 👆🏼 Point us to something related to patients using AI that you think could be used as a future example related to this document.
+    url: https://github.com/TheLightCollective/PatientLedAI/discussions/categories/show-and-tell
