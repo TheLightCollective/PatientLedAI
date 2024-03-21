@@ -1,6 +1,6 @@
 # Patient Rights in AI  - Version 1
 
-Note: this is an open source, text-based version of the "Patient Rights in AI" document. You can also access a formatted PDF copy of the document here. Please see the last section [here](#revisions-process-for-this-document) for ways to provide feedback. 
+Note: this is an open source, text-based version of the "Patient Rights in AI" document. You can also access a formatted PDF copy of the document [here](https://lightcollective.org/wp-content/uploads/2024/03/AI-Rights-For-Patients_v1.0.pdf). Please see the last section [here](#revisions-process-for-this-document) for ways to provide feedback. 
 
 ## Table of Contents
 
@@ -462,12 +462,12 @@ Here are different ways that you can provide feedback:
   </tr>
   <tr>
     <td>Feedback form</td>
-    <td>Fill out this form which will guide you to give feedback about your perspective and thoughts on the document</td>
+    <td>Fill out <a href="https://lightcollective.typeform.com/PatientAIRights">this form</a> which will guide you to give feedback about your perspective and thoughts on the document</td>
     <td>TLC will review; anonymized version of feedback may be collated and shared with the working group.</td>
   </tr>
   <tr>
     <td>Email</td>
-    <td>You can also email your feedback to <a href="mailto:email@emailaddress.com">email@emailaddress.com</a></td>
+    <td>You can also email your feedback to <a href="mailto:contact@lightcollective.org">contact@lightcollective.org</a></td>
     <td>TLC will review; anonymized version of feedback may be collated and shared with the working group.</td>
   </tr>
 </table>
