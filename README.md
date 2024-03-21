@@ -1,6 +1,6 @@
 # Patient Rights in AI  - Version 1
 
-Note: this is an open source, text-based version of the "Patient Rights in AI" document. You can also access a formatted PDF copy of the document [here](https://lightcollective.org/wp-content/uploads/2024/03/AI-Rights-For-Patients_v1.0.pdf). Please see the last section [here](#revisions-process-for-this-document) for ways to provide feedback. 
+Note: this is an open source, text-based version of the "Patient Rights in AI" document. You can also access a formatted PDF copy of the document [here](https://lightcollective.org/wp-content/uploads/2024/03/Collective-Digital-Rights-For-Patients_v1.0.pdf). Please see the last section [here](#revisions-process-for-this-document) for ways to provide feedback. 
 
 ## Table of Contents
 
