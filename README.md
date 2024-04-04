@@ -159,7 +159,7 @@ Audit and certification of health AI must be independent and separated from indu
     <th colspan="3">4. Self-Determination</th>
   </tr>
   <tr>
-    <td colspan="3">AI should be developed and used in a way that allows patients to make informed choices about their own health and care.</td>
+    <td colspan="3">AI should be developed and used in a way that enables patients to exercise the fundamental right to make informed choices about their own health and healthcare.</td>
   </tr>
   <tr>
     <td><strong>What it Means</strong></td>
