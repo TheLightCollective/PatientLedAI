@@ -170,11 +170,11 @@ Audit and certification of health AI must be independent and separated from indu
     <td>Patients have the right to self-determination. <br><br>
     As such, patients should have a choice to accept or decline an AI intervention in care.</td>
     <td>
-      Self-determination is important because AI is increasingly used to determine a patient’s access to care or a specific treatment.<br><br>
-
-AI Predictions about health risk are no replacement for informed decision-making.  For example, if AI is making predictions about a patient’s health risk and those predictions are  inaccurate, then a patient may lose benefits, choices, or access to care.<br><br>
-
-Patients must reserve the right to defy odds, even if odds are not in their own favor.  Patients must have autonomy when it comes to separation of their private lives from decisions about care.  
+    The importance of self-determination grows in the era of AI-assisted decision-making. With AI becoming increasingly integrated into healthcare systems, it is crucial to ensure that patients retain their autonomy and the right to make informed decisions about their care.<br><br>
+    AI predictions about health risks are no replacement for informed decision-making by patients. AI models may be subject to biases, errors, or limitations, potentially leading to incorrect assessments of a patient's health risks. If these predictions are used to determine access to care, benefits, or specific treatments, patients may be unjustly denied essential resources and opportunities.<br><br>
+    Patients deserve the right to defy odds, even if odds are not in their favor.<br><br>
+    Patients must have control over how their private life data is used in healthcare decision-making.<br><br>
+    In conclusion, we must ensure that AI supports patients' ability to make informed choices about their care, rather than undermining it, by respecting the fundamental principles of patient autonomy and self-determination.  
     </td>
     <td>
     Patients should be given the chance to make an informed decision to opt out or appeal AI generated decisions. <br><br>
