@@ -167,8 +167,7 @@ Audit and certification of health AI must be independent and separated from indu
     <td><strong>What it Looks Like in Action</strong></td>
   </tr>
   <tr>
-    <td>Patients have the right to self-determination. <br><br>
-    As such, patients should have a choice to accept or decline an AI intervention in care.</td>
+    <td>Respect for autonomy.<br><br>Patients have the right to make decisions about their own bodies and health based on their personal values, beliefs, and preferences. This includes the right to decide whether or not to use AI-based interventions in their care.</td>
     <td>
       Self-determination is important because AI is increasingly used to determine a patient’s access to care or a specific treatment.<br><br>
 
