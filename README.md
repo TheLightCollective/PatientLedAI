@@ -148,7 +148,7 @@ In practice, this also means establishing fiduciary relationships to require AI 
 
 In addition, AI outputs must be recognized as a part of a patient’s <a href="https://www.hhs.gov/hipaa/for-professionals/faq/2042/what-personal-health-information-do-individuals/index.html">designated record set (DRS)</a> and individuals have the right to access outputs if the information is used to make decisions about their care or coordination of care.<br><br>
 
-Audit and certification of health AI must be independent and separated from industry or institution financial interests.</td>
+Audit and certification of health AI must be independent and separated from industry or institution financial interests. One example of Fairness Metrics is that of Equlity AI<a href="https://github.com/EqualityAI/EqualityML/blob/main/Equality%20AI%20Fairness%20Metric%20Selection%20Questionnaire%20%26%20Tree.pdf".</td>
   </tr>
 </table>
 
